@@ -1,0 +1,11 @@
+sort1 uses: Bubble Sort
+
+How do you know?: Because compared to sort3 it just has to go through the array once when the array ist already sorted
+
+sort2 uses: Merge Sort
+
+How do you know?: Because it takes significantly less time on bigger arrays
+
+sort3 uses: Selection Sort
+
+How do you know?: Because it is slower than sort1 on an already sorted array
